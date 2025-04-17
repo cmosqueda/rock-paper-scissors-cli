@@ -1,9 +1,7 @@
-# rock-paper-scissors-cli
-A CLI-based rock, paper, scissors game made in Python. User VS. Computer.
+# Rock Paper Scissors CLI Game (Windows .exe)
+Welcome to the **Rock Paper Scissors** CLI game! This is a retro-style game written in Python, packaged as an `.exe` for Windows.
 
-How to download?
+## Download the .exe File:
+- [Download the Rock Paper Scissors CLI .exe file here](https://drive.google.com/drive/folders/1zvOwC8HIMaV2VCeiouwWcjxhMC5dDnn3?usp=drive_link)
 
-1. Click on the `.exe` file in the repository.
-2. Click the `Download` button to save the `.exe` to your local device.
-
-You can now run it right away. Have fun playing!
+After downloading, you can run it right away. Have fun playing!
